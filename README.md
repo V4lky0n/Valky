@@ -43,18 +43,19 @@
   
  *2. ir al gym*
  
-   <img width= '150px' src=/>
+   <img width= '150px' src=https://github.com/V4lky0n/Valky/blob/main/cat%20at%20gym%20asf.jpeg/>
    
  *3. tocar la guitarra*
  
-   <img width= '150px' src=/>
+   <img width= '150px' src=https://github.com/V4lky0n/Valky/blob/main/cat%20rockstar.jpeg/>
  
  *4. jugar videojuegos*
  
-  <img width= '150px' src=/>
+  <img width= '150px' src=https://github.com/V4lky0n/Valky/blob/main/meme%20gato%20jugando%20play.jpeg/>
  
  *5. quedar con amigos*
-
+ 
+<img width= '150px' src=https://github.com/V4lky0n/Valky/blob/main/De%20boas%20aqui%20%23quinta%20%23amigos.jpeg/>
 
 
 
