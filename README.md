@@ -8,8 +8,11 @@
 ```
 **Mis caracteristicas**
 
-- Me gusta mucho la musica 
-  - [mi cancion fav](https://youtu.be/UPqDWj-RxV8?si=xYblGFLQgUVykd13)
+- Me gusta mucho la musica
+- [mi cancion fav](https://youtu.be/UPqDWj-RxV8?si=xYblGFLQgUVykd13)
+<img width= '150px' src=https://github.com/V4lky0n/Valky/blob/main/Imagen%20de%20WhatsApp%202025-05-28%20a%20las%2011.03.06_bf4c960a.jpg/>
+
+  
 - Me gustan los videojuegos
   - **mi videojuego fav**
 
