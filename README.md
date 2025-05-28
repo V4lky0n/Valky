@@ -13,7 +13,7 @@
 - Me gustan los videojuegos
   - **mi videojuego fav**
 
-    <img width= '150px' scr= 
+    <img width= '150px' src=https://github.com/V4lky0n/Valky/blob/main/Virtua%20Fighter%205%2C%20Slay%20the%20SPire%20and%203%20Sonic%20games….jpeg/> 
 
 
 
@@ -36,12 +36,20 @@
 
  *1. comer*
  
+  <img width= '150px' src=/> 
+  
  *2. ir al gym*
  
+   <img width= '150px' src=/>
+   
  *3. tocar la guitarra*
  
+   <img width= '150px' src=/>
+ 
  *4. jugar videojuegos*
-
+ 
+  <img width= '150px' src=/>
+ 
  *5. quedar con amigos*
 
 
