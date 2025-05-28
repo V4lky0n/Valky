@@ -1,6 +1,6 @@
 ## Hola mi nombre es Dario 
   
-  **Negrita** -
+  **Negrita**-
   
     *cursiva*
       
