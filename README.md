@@ -36,7 +36,7 @@
 
  *1. comer*
  
-  <img width= '150px' src=/> 
+  <img width= '150px' src=https://github.com/V4lky0n/Valky/blob/main/cat%20eat%20the%20korn.jpeg/> 
   
  *2. ir al gym*
  
